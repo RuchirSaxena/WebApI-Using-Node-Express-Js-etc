@@ -1,0 +1,27 @@
+{
+  "name": "bookstore",
+  "version": "1.0.0",
+  "description": "Book store Restful API ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RuchirSaxena/WebApI-Using-Node-Express-Js-etc.git"
+  },
+  "author": "Ruchir Saxena",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RuchirSaxena/WebApI-Using-Node-Express-Js-etc/issues"
+  },
+  "homepage": "https://github.com/RuchirSaxena/WebApI-Using-Node-Express-Js-etc#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^4.12.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  }
+}
